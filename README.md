@@ -14,11 +14,17 @@ Software engineering plays a crucial role in the technology industry by enabling
 List and briefly explain the phases of the Software Development Life Cycle.
 
 Requirements
+
 Design
+
 Implementation
+
 Testing
+
 Deployment
+
 Maintenance
+
   - Requirements: This is the gathering and documentation of user needs and system requirements.
   - Design: it is the process of creating high-level and detailed designs of the software architecture and user interface.
   - Implementation: Writing code and building the software according to the design specifications.
@@ -78,7 +84,11 @@ Importance;
 Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
 
 Vague Prompt:
+
 "Tell me about the new technology."
+
 Improved Prompt:
+
 "Explain how blockchain technology can be used to enhance supply chain transparency."
+
 The improved prompt is more effective because it clearly defines the subject (blockchain), specifies the context (supply chain transparency), and requests an explanation, leading to a focused and relevant answer. This approach reduces ambiguity, making it easier for the model to provide a useful and precise response.
